@@ -159,9 +159,9 @@ Upload any PDF document and have a natural conversation with it. Built with a fu
 
 | Period | Role | Company | Domain |
 |--------|------|---------|--------|
-| 2022 – 2023 | **Senior UI Developer / Team Lead** | IBM (via Cognizant) | Banking – Synchrony |
-| 2020 – 2022 | **UI Developer** | Capgemini | Insurance – MetLife |
-| 2018 – 2020 | **Junior UI Developer** | Cognizant | Financial Services |
+| 2022 – 2023 | **Senior Developer** | Cognizant | Financial Services |
+| 2020 – 2022 | **UI Developer / Team Lead** | Capgemini | Banking – Synchrony |
+| 2016 – 2019 | **Application Developer** | IBM | Insurance – MetLife |
 
 ---
 
