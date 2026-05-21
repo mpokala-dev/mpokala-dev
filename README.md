@@ -14,10 +14,10 @@
 <br/>
 
 <!-- BADGES -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/madhuri-pokala)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-1E3A5F?style=for-the-badge&logo=vercel&logoColor=white)](https://madhuri-pokala.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/madhuripokala)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-1E3A5F?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-nextjs-rho-eight.vercel.app/)
 [![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:madhurid0309@gmail.com)
-[![Location](https://img.shields.io/badge/📍_Milton_Keynes,_UK-Right_to_Work-27AE60?style=for-the-badge)](https://www.linkedin.com/in/madhuri-pokala)
+[![Location](https://img.shields.io/badge/📍_Milton_Keynes,_UK-Right_to_Work-27AE60?style=for-the-badge)](https://www.linkedin.com/in/madhuripokala)
 
 </div>
 
