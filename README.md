@@ -74,51 +74,51 @@ Currently levelling up with modern AI-powered development — building real prod
 ## 🚀 Featured Projects
 
 <!-- PROJECT 1 -->
-### 🗂️ [Task Manager App](https://github.com/madhuri-pokala/task-manager-ts)
+### 🗂️ [Task Manager App](https://github.com/mpokala-dev/task-manager-ts)
 > **React 18 · TypeScript · Vite · Tailwind CSS · Drag-and-Drop**
 
 A production-quality task management app with drag-and-drop reordering, priority filters, due-date sorting, dark mode, and full local-storage persistence. Built with strict TypeScript throughout.
 
-[![Live Demo](https://img.shields.io/badge/Live_Demo-▶_View-2B6CB0?style=flat-square&logo=vercel)](https://task-manager-ts.vercel.app)
-[![Repo](https://img.shields.io/badge/GitHub-View_Code-181717?style=flat-square&logo=github)](https://github.com/madhuri-pokala/task-manager-ts)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-▶_View-2B6CB0?style=flat-square&logo=vercel)](https://task-manager-ts-gamma.vercel.app)
+[![Repo](https://img.shields.io/badge/GitHub-View_Code-181717?style=flat-square&logo=github)](https://github.com/mpokala-dev/task-manager-ts)
 ![TypeScript](https://img.shields.io/badge/TypeScript-✓-007ACC?style=flat-square)
 ![Tests](https://img.shields.io/badge/Tests-passing-27AE60?style=flat-square)
 
 ---
 
 <!-- PROJECT 2 -->
-### 🌐 [Portfolio Site](https://github.com/madhuri-pokala/portfolio-nextjs)
+### 🌐 [Portfolio Site](https://github.com/mpokala-dev/portfolio-nextjs)
 > **Next.js 14 · Tailwind CSS · Vercel · App Router · SSG**
 
 My personal portfolio and blog built with Next.js 14 App Router. Features server-side rendering, optimised images, SEO metadata, Open Graph tags, contact form with Resend API, and 100/100 Lighthouse score.
 
-[![Live Site](https://img.shields.io/badge/Live_Site-▶_Visit-2B6CB0?style=flat-square&logo=vercel)](https://madhuri-pokala.vercel.app)
-[![Repo](https://img.shields.io/badge/GitHub-View_Code-181717?style=flat-square&logo=github)](https://github.com/madhuri-pokala/portfolio-nextjs)
+[![Live Site](https://img.shields.io/badge/Live_Site-▶_Visit-2B6CB0?style=flat-square&logo=vercel)](https://portfolio-nextjs-rho-eight.vercel.app)
+[![Repo](https://img.shields.io/badge/GitHub-View_Code-181717?style=flat-square&logo=github)](https://github.com/mpokala-dev/portfolio-nextjs)
 ![Next.js](https://img.shields.io/badge/Next.js-✓-000000?style=flat-square)
 
 ---
 
 <!-- PROJECT 3 -->
-### 💰 [Expense Tracker — Full Stack](https://github.com/madhuri-pokala/expense-tracker-fullstack)
+### 💰 [Expense Tracker — Full Stack](https://github.com/mpokala-dev/expense-tracker-fullstack)
 > **React · Node.js · Express · MongoDB · JWT Auth · Docker · CI/CD**
 
 End-to-end expense tracking application with secure JWT authentication, full CRUD REST API, data visualisation dashboard, and a complete GitHub Actions CI/CD pipeline. Dockerised for consistent deployments.
 
-[![Live Demo](https://img.shields.io/badge/Live_Demo-▶_View-2B6CB0?style=flat-square&logo=vercel)](https://expense-tracker-madhuri.vercel.app)
-[![Repo](https://img.shields.io/badge/GitHub-View_Code-181717?style=flat-square&logo=github)](https://github.com/madhuri-pokala/expense-tracker-fullstack)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-▶_View-2B6CB0?style=flat-square&logo=vercel)](https://expense-tracker-fullstack-fawn.vercel.app)
+[![Repo](https://img.shields.io/badge/GitHub-View_Code-181717?style=flat-square&logo=github)](https://github.com/mpokala-dev/expense-tracker-fullstack)
 ![CI](https://img.shields.io/badge/CI-passing-27AE60?style=flat-square)
 ![Coverage](https://img.shields.io/badge/Coverage-70%25+-27AE60?style=flat-square)
 
 ---
 
 <!-- PROJECT 4 -->
-### 🤖 [AI Cover Letter Generator](https://github.com/madhuri-pokala/ai-cover-letter-generator)
+### 🤖 [AI Cover Letter Generator](https://github.com/mpokala-dev/cover-letter-gen)
 > **React · OpenAI API · Anthropic Claude API · Prompt Engineering**
 
 Paste a job description and your experience — get a tailored, professional cover letter in seconds. Supports both GPT-4 and Claude 3 with tone control (formal/casual), length adjustment, and one-click download as .docx.
 
-[![Live Demo](https://img.shields.io/badge/Live_Demo-▶_Try_It-2B6CB0?style=flat-square&logo=vercel)](https://ai-cover-letter.vercel.app)
-[![Repo](https://img.shields.io/badge/GitHub-View_Code-181717?style=flat-square&logo=github)](https://github.com/madhuri-pokala/ai-cover-letter-generator)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-▶_Try_It-2B6CB0?style=flat-square&logo=vercel)](https://cover-letter-gen-phi.vercel.app)
+[![Repo](https://img.shields.io/badge/GitHub-View_Code-181717?style=flat-square&logo=github)](https://github.com/mpokala-dev/cover-letter-gen)
 ![OpenAI](https://img.shields.io/badge/OpenAI-✓-412991?style=flat-square)
 ![Claude](https://img.shields.io/badge/Claude-✓-1E3A5F?style=flat-square)
 
