@@ -125,13 +125,13 @@ Paste a job description and your experience — get a tailored, professional cov
 ---
 
 <!-- PROJECT 5 -->
-### 💬 [AI Document Chat — RAG Chatbot](https://github.com/madhuri-pokala/ai-document-chat)
+### 💬 [AI Document Chat — RAG Chatbot](https://github.com/mpokala-dev/rag-document-chat)
 > **Next.js · Vercel AI SDK · OpenAI Embeddings · RAG · PDF Parsing · Streaming**
 
 Upload any PDF document and have a natural conversation with it. Built with a full Retrieval-Augmented Generation (RAG) pipeline: PDF parsing → text chunking → OpenAI embeddings → semantic search → streaming chat UI. Deployed on Vercel.
 
-[![Live Demo](https://img.shields.io/badge/Live_Demo-▶_Try_It-2B6CB0?style=flat-square&logo=vercel)](https://ai-document-chat.vercel.app)
-[![Repo](https://img.shields.io/badge/GitHub-View_Code-181717?style=flat-square&logo=github)](https://github.com/madhuri-pokala/ai-document-chat)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-▶_Try_It-2B6CB0?style=flat-square&logo=vercel)](https://rag-document-chat-dun.vercel.app)
+[![Repo](https://img.shields.io/badge/GitHub-View_Code-181717?style=flat-square&logo=github)](https://github.com/mpokala-dev/rag-document-chat)
 ![RAG](https://img.shields.io/badge/RAG-✓-E2EFDA?style=flat-square&labelColor=1C4E27&color=1C4E27)
 ![Streaming](https://img.shields.io/badge/Streaming_UI-✓-27AE60?style=flat-square)
 
