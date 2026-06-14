@@ -141,15 +141,15 @@ Upload any PDF document and have a natural conversation with it. Built with a fu
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=madhuri-pokala&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=2B6CB0&icon_color=BDD7EE&text_color=ffffff" alt="Madhuri's GitHub Stats"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=mpokala-dev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=2B6CB0&icon_color=BDD7EE&text_color=ffffff" alt="Madhuri's GitHub Stats"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=madhuri-pokala&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=2B6CB0&text_color=ffffff" alt="Top Languages"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mpokala-dev&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=2B6CB0&text_color=ffffff" alt="Top Languages"/>
 
 </div>
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=madhuri-pokala&theme=tokyonight&hide_border=true&background=0d1117&ring=2B6CB0&fire=BDD7EE&currStreakLabel=2B6CB0)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=mpokala-dev&theme=tokyonight&hide_border=true&background=0d1117&ring=2B6CB0&fire=BDD7EE&currStreakLabel=2B6CB0)](https://git.io/streak-stats)
 
 </div>
 
