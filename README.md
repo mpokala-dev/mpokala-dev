@@ -182,9 +182,9 @@ I'm actively looking for **Senior Frontend**, **Full-Stack**, or **AI Engineer**
 
 If you're hiring or know of an opportunity, I'd love to hear from you!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Madhuri_Pokala-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/madhuri-pokala)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Madhuri_Pokala-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/madhuripokala)
 [![Email](https://img.shields.io/badge/Email-madhurid0309%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:madhurid0309@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-madhuri--pokala.vercel.app-1E3A5F?style=for-the-badge&logo=vercel)](https://madhuri-pokala.vercel.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-madhuri--pokala.vercel.app-1E3A5F?style=for-the-badge&logo=vercel)](https://portfolio-nextjs-rho-eight.vercel.app/)
 
 <br/>
 
