@@ -197,4 +197,4 @@ If you're hiring or know of an opportunity, I'd love to hear from you!
 <div align="center">
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2B6CB0,100:1E3A5F&height=100&section=footer" alt="footer"/>
 </div>
--->
+
