@@ -80,8 +80,9 @@ Currently levelling up with modern AI-powered development — building real prod
 A production-quality full-stack developer networking application with chat functionality that is built to demonstrate React and full-stack development skills. The frontend is a React-based single-page application, and the backend is built using Node.js and Express with MongoDB and Mongoose.
 
 [![Live Demo](https://img.shields.io/badge/Live_Demo-▶_View-2B6CB0?style=flat-square&logo=vercel)](http://13.50.248.247/)
-[![Repo](https://img.shields.io/badge/GitHub-View_Code-181717?style=flat-square&logo=github)](https://github.com/mpokala-dev/Dev-Tinder)
-![JavaScript](https://img.shields.io/badge/TypeScript-✓-007ACC?style=flat-square)
+[![Repo](https://img.shields.io/badge/GitHub-View_Backend_Code-181717?style=flat-square&logo=github)](https://github.com/mpokala-dev/Dev-Tinder)
+[![Repo](https://img.shields.io/badge/GitHub-View_Frontend_Code-181717?style=flat-square&logo=github)](https://github.com/mpokala-dev/Dev-Tinder-UI)
+![JavaScript](https://img.shields.io/badge/JavaScript-✓-007ACC?style=flat-square)
 ![Tests](https://img.shields.io/badge/Tests-passing-27AE60?style=flat-square)
 
 ---
