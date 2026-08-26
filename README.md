@@ -74,6 +74,19 @@ Currently levelling up with modern AI-powered development — building real prod
 ## 🚀 Featured Projects
 
 <!-- PROJECT 1 -->
+### 👩‍💻 [Dev Tinder App](https://github.com/mpokala-dev/Dev-Tinder)
+> **React 19 · JavaScript · Node · Express · MongoDB · Mongoose · Vite · Tailwind CSS · Daisy UI · Websockets · RTL · JWT · AWS**
+
+A production-quality full-stack developer networking application with chat functionality that is built to demonstrate React and full-stack development skills. The frontend is a React-based single-page application, and the backend is built using Node.js and Express with MongoDB and Mongoose.
+
+[![Live Demo](https://img.shields.io/badge/Live_Demo-▶_View-2B6CB0?style=flat-square&logo=vercel)](http://13.50.248.247/)
+[![Repo](https://img.shields.io/badge/GitHub-View_Code-181717?style=flat-square&logo=github)](https://github.com/mpokala-dev/Dev-Tinder)
+![JavaScript](https://img.shields.io/badge/TypeScript-✓-007ACC?style=flat-square)
+![Tests](https://img.shields.io/badge/Tests-passing-27AE60?style=flat-square)
+
+---
+
+<!-- PROJECT 2 -->
 ### 🗂️ [Task Manager App](https://github.com/mpokala-dev/task-manager-ts)
 > **React 18 · TypeScript · Vite · Tailwind CSS · Drag-and-Drop**
 
@@ -86,7 +99,7 @@ A production-quality task management app with drag-and-drop reordering, priority
 
 ---
 
-<!-- PROJECT 2 -->
+<!-- PROJECT 3 -->
 ### 🌐 [Portfolio Site](https://github.com/mpokala-dev/portfolio-nextjs)
 > **Next.js 14 · Tailwind CSS · Vercel · App Router · SSG**
 
@@ -98,7 +111,7 @@ My personal portfolio and blog built with Next.js 14 App Router. Features server
 
 ---
 
-<!-- PROJECT 3 -->
+<!-- PROJECT 4 -->
 ### 💰 [Expense Tracker — Full Stack](https://github.com/mpokala-dev/expense-tracker-fullstack)
 > **React · Node.js · Express · MongoDB · JWT Auth · Docker · CI/CD**
 
@@ -111,7 +124,7 @@ End-to-end expense tracking application with secure JWT authentication, full CRU
 
 ---
 
-<!-- PROJECT 4 -->
+<!-- PROJECT 5 -->
 ### 🤖 [AI Cover Letter Generator](https://github.com/mpokala-dev/cover-letter-gen)
 > **React · OpenAI API · Anthropic Claude API · Prompt Engineering**
 
@@ -124,7 +137,7 @@ Paste a job description and your experience — get a tailored, professional cov
 
 ---
 
-<!-- PROJECT 5 -->
+<!-- PROJECT 6 -->
 ### 💬 [AI Document Chat — RAG Chatbot](https://github.com/mpokala-dev/rag-document-chat)
 > **Next.js · Vercel AI SDK · OpenAI Embeddings · RAG · PDF Parsing · Streaming**
 
