@@ -9,7 +9,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1E3A5F,100:2B6CB0&height=200&section=header&text=Madhuri%20Pokala&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Senior%20Frontend%20%7C%20Full-Stack%20%7C%20AI%20App%20Developer&descAlignY=58&descColor=BDD7EE&animation=fadeIn" alt="Madhuri Pokala banner"/>
 
 <!-- TYPING ANIMATION -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=2B6CB0&center=true&vCenter=true&width=700&lines=React+%26+TypeScript+Developer+%F0%9F%92%BB;Next.js+%7C+Node.js+%7C+Full-Stack+Engineer+%F0%9F%9A%80;AI+App+Builder+%7C+Prompt+Engineering+%F0%9F%A4%96;6%2B+Years+Building+Web+Applications+%F0%9F%8C%9F;Open+to+Senior+Frontend+%26+AI+Roles+in+the+UK+%F0%9F%87%AC%F0%9F%87%A7)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=2B6CB0&center=true&vCenter=true&width=700&lines=React+%26+TypeScript+Developer+%F0%9F%92%BB;Next.js+%7C+Node.js+%7C+Full-Stack+Engineer+%F0%9F%9A%80;AI+App+Builder+%7C+Prompt+Engineering+%F0%9F%A4%96;Open+to+Senior+Frontend+%26+AI+Roles+in+the+UK+%F0%9F%87%AC%F0%9F%87%A7)](https://git.io/typing-svg)
 
 <br/>
 
@@ -17,7 +17,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/madhuripokala)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-1E3A5F?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-nextjs-rho-eight.vercel.app/)
 [![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:madhurid0309@gmail.com)
-[![Location](https://img.shields.io/badge/📍_Milton_Keynes,_UK-Right_to_Work-27AE60?style=for-the-badge)]
+![Location](https://img.shields.io/badge/📍_Milton_Keynes,_UK-27AE60?style=for-the-badge)
 
 </div>
 
